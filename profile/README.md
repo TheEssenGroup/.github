@@ -12,4 +12,4 @@
 -->
 
 <h2> The Essen Group</h2>
-<p>The Essen group is a parent organization to GreenBarter,Essen,Locate and many other <b>Essen</b>tial organisations deigned to give you an easier experience and make life easier</p>
+<p>The Essen group is a parent organization to Essen,Locate; partner organisation to Octave,GreenBarter and many other <b>Essen</b>tial organisations deigned to give you an easier experience and make life easier</p>
